@@ -1,5 +1,9 @@
 For some reason Github Desktop needs code changes to see that changes were made.  So add random text here.  
 
+<<<<<<< HEAD
 Eat my shorts github
 
 adfhnsjdffbjsadasdfadsf
+=======
+Swaggggg
+>>>>>>> origin/master
